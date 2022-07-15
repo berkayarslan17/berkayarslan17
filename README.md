@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Design and Development](https://github.com/berkayarslan17/berkayarslan17/blob/main/banner.jpg)
+
+# Berkay Arslan
+- ⚡ I graduated from Gebze Technical University majoring in Electronics Engineering.
+- 🔭 I’m currently working at Borda Technology as an Embedded Software Engineer.
+- 🌱 I’m currently learning Wireless Communication Protocols in IoT (Bluetooth, NB-IoT, LTE-M), and Real Time Operating Systems (Zephyr OS, FreeRTOS).
+
+
+## Skills and Experience
+* C, C++, Python
+* Real Time Operating Systems
+* Image Processing
