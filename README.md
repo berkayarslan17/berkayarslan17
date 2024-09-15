@@ -27,11 +27,3 @@ Here are some ideas to get you started:
 * C, C++, Python
 * Real Time Operating Systems
 * Image Processing
-
-## Social Media
-<a href="https://twitter.com/Berkagen">
-  <img align="left" alt="Berkay Arslan Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/berkay-arslan-3b9b95141/">
-  <img align="left" alt="Berkay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
